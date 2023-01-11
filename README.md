@@ -11,7 +11,7 @@ This is a brief project of mine in Python that I used to make fun of the most ag
 Run my-project with python3
 
 ```bash
- cd my-project
+ cd github_hack
  python3 main.py
 ```
     
