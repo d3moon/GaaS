@@ -12,6 +12,7 @@ Run my-project with python3
 
 ```bash
  cd github_hack
+ pip install art
  python3 main.py
 ```
     
